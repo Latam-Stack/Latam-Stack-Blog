@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://blog.latamstack.com.br/sitemap.xml
+Sitemap: https://blog.latamstack.com.br/sitemap.xml
